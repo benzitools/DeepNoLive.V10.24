@@ -55,11 +55,11 @@ start.py
 ## 📺 Screenshot:
 
 
-[Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/VN.png)
+![Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/VN.png)
 
-[Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/en1.png)
+![Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/en1.png)
 
-[Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/en2.png)
+![Screenshot](https://github.com/benzitools/DeepNoLive.V10.24/blob/main/ScreenShot/en2.png)
 
 ---
 
