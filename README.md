@@ -66,7 +66,7 @@ start.py
 ## 📺 **How to Use**:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/benzitools/Deep-Fake-NoLive-V10.24.git
+   git clone https://github.com/benzitools/DeepNoLive.V10.24.git
    pip install -r requirements.txt
    ```
 2. Run the `start.bat` file for a one-click start.  
